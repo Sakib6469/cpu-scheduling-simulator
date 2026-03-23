@@ -45,3 +45,5 @@ Managing multiple queues (ready, IO)
 Add GUI visualization |
 Support multiple scheduling algorithms (FCFS, Round Robin) |
 Input from external files 
+
+Author : Sakib Akterujjaman
