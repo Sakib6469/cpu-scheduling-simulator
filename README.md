@@ -36,12 +36,12 @@ IO: []
 ----------------------
 
 ##  What I learned 
-How CPU scheduling algorithms work
-Process lifecycle and state transitions
-Simulation design using time steps
+How CPU scheduling algorithms work |
+Process lifecycle and state transitions |
+Simulation design using time steps |
 Managing multiple queues (ready, IO)
 
 ##  Future Improvements
-Add GUI visualization
-Support multiple scheduling algorithms (FCFS, Round Robin)
-Input from external files
+Add GUI visualization |
+Support multiple scheduling algorithms (FCFS, Round Robin) |
+Input from external files 
