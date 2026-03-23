@@ -29,10 +29,11 @@ This project is a Python-based simulation of CPU scheduling using a **preemptive
 1. Clone the repository
 2. Run the program
 3. Example Output:
-Time: 1
-CPU: P1
-Ready Queue: ['P2', 'P3']
-IO: []
+   
+                  Time: 1
+                  CPU: P1
+                  Ready Queue: ['P2', 'P3']
+                  IO: []
 ----------------------
 
 ##  What I learned 
