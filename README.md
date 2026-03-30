@@ -48,7 +48,9 @@ python scheduler.py
 - Process lifecycle and state transitions
 - Simulation design using time steps
 - Managing multiple queues (ready, IO)
+
  Future Improvements
+ 
 - Add GUI visualization
 - Support multiple scheduling algorithms (FCFS, Round Robin)
 - Input from external files
