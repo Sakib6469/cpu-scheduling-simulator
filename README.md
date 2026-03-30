@@ -1,4 +1,5 @@
 # CPU Scheduling Simulator
+A portfolio project demonstrating algorithms, simulation design, and operating systems concepts.
 
 ##  Overview
 This project is a Python-based simulation of CPU scheduling using a **preemptive priority scheduling algorithm**. It models how an operating system manages processes, CPU bursts, and I/O operations over time.
