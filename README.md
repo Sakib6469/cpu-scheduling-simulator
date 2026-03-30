@@ -27,24 +27,32 @@ This project is a Python-based simulation of CPU scheduling using a **preemptive
 ##  How to Run
 
 1. Clone the repository
-2. Run the program
-3. Example Output:
+2. Navigate to folder
+3. Run the program:
+```
+python scheduler.py
+
+```
+  Example Output
+```
    
                   Time: 1
                   CPU: P1
                   Ready Queue: ['P2', 'P3']
                   IO: []
 ----------------------
+```
 
-##  What I learned 
-How CPU scheduling algorithms work |
-Process lifecycle and state transitions |
-Simulation design using time steps |
-Managing multiple queues (ready, IO)
+ What I Learned
+- How CPU scheduling algorithms work
+- Process lifecycle and state transitions
+- Simulation design using time steps
+- Managing multiple queues (ready, IO)
+ Future Improvements
+- Add GUI visualization
+- Support multiple scheduling algorithms (FCFS, Round Robin)
+- Input from external files
 
-##  Future Improvements
-Add GUI visualization |
-Support multiple scheduling algorithms (FCFS, Round Robin) |
-Input from external files 
+
 
 Author : Sakib Akterujjaman
